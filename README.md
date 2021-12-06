@@ -1,5 +1,5 @@
 # Portfolio_SihyunJung
-This is a portfolio of Sihyun Jung, and this is made for 2nd interview.
+This is a portfolio of Sihyun Jung.
 
 ## GUI 사용방법
 ### First page
